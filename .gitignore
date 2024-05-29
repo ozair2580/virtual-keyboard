@@ -9,7 +9,6 @@ lerna-debug.log*
 node_modules
 challenges
 Challenges2
-Advance_challenges
 dist
 dist-ssr
 *.local

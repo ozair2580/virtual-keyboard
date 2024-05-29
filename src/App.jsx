@@ -14,9 +14,10 @@
 // import Image_Dragging from './challenges/Image-Dragging'
 // import PallindromeChecker from './challenges/PallindromeChecker'
 // import Expancess from './challenges/Expancess'
+
 // ////Advance practice ///////////////////////////
 // import Recursive_componet from './Advance_challenges/1_recursive_componet'
-// import Virtual_keybord from './Advance_challenges/2_virtual_keybord'
+import Virtual_keybord from './Advance_challenges/2_virtual_keybord'
 // //////////////////challenges2///////////
 
 // import Quite_generator from './Challenges2/Quite_generator'
@@ -26,7 +27,7 @@ function App() {
   return (
     <>
       <div>
-        <ChatApplication/>
+        <Virtual_keybord/>
       </div>
     </>
   )
